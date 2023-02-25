@@ -2,7 +2,7 @@
 
 This is a guide on how to submit your solutions on devpost
 
-# Identifying which track your challenge lies in
+## Identifying which track your challenge lies in
 
 [Luna Hack Devpost](https://luna-hacks-2-0.devpost.com/) has 3 sub devpost
 
