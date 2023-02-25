@@ -23,6 +23,7 @@ Create a team-repo with the name of your team
 Create a folder of the track you are submitting
 
 ```bash
+├──team-luna                 #Main  folder
    ├── swe                   # Software Engineering (alternatively `doc`)
        ├──  challenge 1
        ├── challenge 2
